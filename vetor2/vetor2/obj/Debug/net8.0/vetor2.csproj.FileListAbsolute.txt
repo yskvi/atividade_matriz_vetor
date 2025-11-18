@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\vetor2\vetor2\bin\Debug\net8.0\vetor2.exe
+C:\Users\user\source\repos\vetor2\vetor2\bin\Debug\net8.0\vetor2.deps.json
+C:\Users\user\source\repos\vetor2\vetor2\bin\Debug\net8.0\vetor2.runtimeconfig.json
+C:\Users\user\source\repos\vetor2\vetor2\bin\Debug\net8.0\vetor2.dll
+C:\Users\user\source\repos\vetor2\vetor2\bin\Debug\net8.0\vetor2.pdb
+C:\Users\user\source\repos\vetor2\vetor2\obj\Debug\net8.0\vetor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\vetor2\vetor2\obj\Debug\net8.0\vetor2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\vetor2\vetor2\obj\Debug\net8.0\vetor2.AssemblyInfo.cs
+C:\Users\user\source\repos\vetor2\vetor2\obj\Debug\net8.0\vetor2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\vetor2\vetor2\obj\Debug\net8.0\vetor2.dll
+C:\Users\user\source\repos\vetor2\vetor2\obj\Debug\net8.0\refint\vetor2.dll
+C:\Users\user\source\repos\vetor2\vetor2\obj\Debug\net8.0\vetor2.pdb
+C:\Users\user\source\repos\vetor2\vetor2\obj\Debug\net8.0\vetor2.genruntimeconfig.cache
+C:\Users\user\source\repos\vetor2\vetor2\obj\Debug\net8.0\ref\vetor2.dll
