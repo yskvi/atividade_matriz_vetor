@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\vetor4\vetor4\bin\Debug\net8.0\vetor4.exe
+C:\Users\user\source\repos\vetor4\vetor4\bin\Debug\net8.0\vetor4.deps.json
+C:\Users\user\source\repos\vetor4\vetor4\bin\Debug\net8.0\vetor4.runtimeconfig.json
+C:\Users\user\source\repos\vetor4\vetor4\bin\Debug\net8.0\vetor4.dll
+C:\Users\user\source\repos\vetor4\vetor4\bin\Debug\net8.0\vetor4.pdb
+C:\Users\user\source\repos\vetor4\vetor4\obj\Debug\net8.0\vetor4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\vetor4\vetor4\obj\Debug\net8.0\vetor4.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\vetor4\vetor4\obj\Debug\net8.0\vetor4.AssemblyInfo.cs
+C:\Users\user\source\repos\vetor4\vetor4\obj\Debug\net8.0\vetor4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\vetor4\vetor4\obj\Debug\net8.0\vetor4.dll
+C:\Users\user\source\repos\vetor4\vetor4\obj\Debug\net8.0\refint\vetor4.dll
+C:\Users\user\source\repos\vetor4\vetor4\obj\Debug\net8.0\vetor4.pdb
+C:\Users\user\source\repos\vetor4\vetor4\obj\Debug\net8.0\vetor4.genruntimeconfig.cache
+C:\Users\user\source\repos\vetor4\vetor4\obj\Debug\net8.0\ref\vetor4.dll
